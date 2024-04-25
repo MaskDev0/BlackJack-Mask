@@ -1,2 +1,2 @@
 # BlackJack-Mask
- Practicing javascript
+ Practicing javascript, very basic JS
